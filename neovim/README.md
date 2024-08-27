@@ -1,0 +1,3 @@
+# neovim
+    ~/.config/nvim/
+        - init.lua
