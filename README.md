@@ -1,4 +1,5 @@
 # config
-This repo is for storing various config files
+This repo is for storing various config files.
 ## file locations
-.nanorc: nano config file, place in ~/
+    .nanorc: nano config file
+        - ~/
