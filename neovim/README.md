@@ -1,4 +1,4 @@
 # neovim
 ## file locations
-    ~/.config/nvim/
+    ~/.config/nvim/ OR %appdata%\..\local\nvim
         - init.lua
