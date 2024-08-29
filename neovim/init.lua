@@ -4,3 +4,6 @@ vim.o.expandtab = true      -- Use spaces instead of tabs
 
 vim.o.number = true         -- Enable line numbers
 vim.o.relativenumber = true -- Enable relative line numbers
+
+vim.o.linebreak = true      -- Soft-wrap lines at word boundaries
+vim.o.breakindent = true    -- Enable indentation on soft-wrapped lines
