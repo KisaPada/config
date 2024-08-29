@@ -1,4 +1,3 @@
 # neovim
 ## file locations
-    :echo stdpath('config')
-        - init.lua
+`:echo stdpath('config')` for default config file path.
