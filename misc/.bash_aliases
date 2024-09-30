@@ -9,3 +9,6 @@ alias lla='ls -lAh --group-directories-first'
 # x clipboard set/get aliases
 alias setclip='xclip -selection c'
 alias getclip='xclip -selection c -o'
+
+# libreoffice convert word doc to pdf
+alias doc2pdf='libreoffice --headless --convert-to pdf'
